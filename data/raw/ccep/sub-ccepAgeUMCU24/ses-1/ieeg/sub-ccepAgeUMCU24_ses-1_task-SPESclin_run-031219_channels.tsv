@@ -1,0 +1,131 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch	status	status_description
+F01	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F02	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F03	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F04	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F05	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F06	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F07	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F08	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F09	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F10	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F11	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F12	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F13	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F14	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F15	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F16	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F17	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F18	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F19	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F20	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F21	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F22	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F23	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F24	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F25	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F26	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F27	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F28	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F29	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F30	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F31	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F32	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F33	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F34	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F35	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F36	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F37	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F38	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F39	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F40	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F41	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F42	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F43	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F44	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F45	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F46	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F47	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F48	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F49	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F50	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F51	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F52	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F53	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F54	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F55	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F56	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F57	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F58	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F59	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F60	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F61	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F62	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F63	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F64	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+MKR1+	TRIG	µV	468	0.15	MKR1-	other	2048	n/a	good	not included
+HCv1	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCv2	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCv3	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCv4	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	electrode on top of other electrode
+HCv5	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	electrode on top of other electrode
+HCv6	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	electrode on top of other electrode
+HCv7	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	electrode on top of other electrode
+HCv8	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	electrode on top of other electrode
+HCa1	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCa2	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCa3	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCa4	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCa5	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCa6	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCa7	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+HCa8	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	electrode on top of other electrode
+Z1	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Z2	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Z3	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Z4	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Z5	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Z6	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Z7	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Z8	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+AH+	OTHER	µV	468	0.15	AH-	other	2048	n/a	bad	not recording
+ECG+	ECG	µV	468	0.15	ECG-	other	2048	n/a	good	not included
+ORB+	EOG	µV	468	0.15	ORB-	other	2048	n/a	good	not included
+EMG+	EMG	µV	468	0.15	EMG-	other	2048	n/a	good	not included
+p11+	OTHER	µV	468	0.15	p11-	other	2048	n/a	bad	not recording
+p12+	OTHER	µV	468	0.15	p12-	other	2048	n/a	bad	not recording
+el95	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+el96	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+C01	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C02	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C03	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C04	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C05	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C06	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C07	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C08	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C09	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)
+C10	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C11	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C12	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C13	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C14	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)
+C15	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C16	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C17	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C18	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C19	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C20	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C21	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C22	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C23	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C24	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C25	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)
+C26	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C27	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C28	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C29	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C30	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C31	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+C32	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+MKR2+	TRIG	µV	468	0.15	MKR2-	other	2048	n/a	good	not included

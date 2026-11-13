@@ -1,0 +1,134 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch	status	status_description
+T01	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T02	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T03	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T04	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T05	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T06	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T07	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T08	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	electrode on top of other electrode
+T09	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T10	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T11	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T12	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T13	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T14	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T15	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	electrode on top of other electrode
+T16	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	electrode on top of other electrode
+T17	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T18	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T19	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T20	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T21	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T22	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T23	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	electrode on top of other electrode
+T24	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	electrode on top of other electrode
+T25	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T26	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T27	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T28	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T29	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T30	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T31	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T32	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T33	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T34	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T35	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T36	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T37	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T38	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	tissue loss
+T39	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T40	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T41	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T42	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T43	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)
+T44	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T45	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T46	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T47	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T48	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T49	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T50	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T51	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T52	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T53	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T54	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T55	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T56	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T57	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T58	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T59	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T60	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T61	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T62	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T63	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T64	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+MKR1+	TRIG	µV	468	0.15	MKR1-	other	2048	n/a	good	not included
+xx01	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx02	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx03	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx04	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx05	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx06	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx07	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx08	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx09	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx10	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx11	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx12	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx13	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx14	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx15	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+xx16	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Oc1	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Oc2	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Oc3	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Oc4	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Oc5	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Oc6	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Oc7	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Oc8	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+AH+	OTHER	µV	468	0.15	AH-	other	2048	n/a	bad	not recording
+ECG+	ECG	µV	468	0.15	ECG-	other	2048	n/a	good	not included
+orb+	EOG	µV	468	0.15	orb-	other	2048	n/a	good	not included
+emg1+	EMG	µV	468	0.15	emg1-	other	2048	n/a	good	not included
+EMG2	EMG	µV	468	0.15	G2	other	2048	n/a	good	not included
+el094	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+el095	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+el096	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+vT1	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+vT2	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+vT3	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+vT4	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+vT5	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+vT6	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+vT7	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	noisy (visual assessment)
+vT8	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+sTv1	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTv2	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTv3	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTv4	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTv5	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTv6	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTv7	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTv8	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	electrode on top of other electrode
+sTm1	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTm2	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTm3	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTm4	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTm5	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTm6	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTm7	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTm8	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	electrode on top of other electrode
+sTa1	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+sTa2	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+sTa3	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTa4	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTa5	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTa6	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTa7	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+sTa8	ECOG	µV	468	0.15	G2	strip	2048	n/a	bad	tissue loss
+thor+	OTHER	Adim.	468	0.15	thor-	other	2048	n/a	bad	not recording
+abdo+	OTHER	Adim.	468	0.15	abdo-	other	2048	n/a	bad	not recording
+xyz+	OTHER	Adim.	468	0.15	xyz-	other	2048	n/a	bad	not recording
+MKR2+	TRIG	µV	468	0.15	MKR2-	other	2048	n/a	good	not included

@@ -1,0 +1,134 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch	status	status_description
+vT1	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+vT2	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+vT3	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+vT4	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+vT5	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+vT6	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+vT7	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+vT8	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+sT1	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+sT2	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+sT3	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+sT4	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+sT5	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+sT6	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+sT7	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+sT8	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+OT1	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+OT2	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+OT3	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+OT4	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+OT5	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+OT6	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+OT7	ECOG	µV	232	0.15	G2	strip	512	n/a	bad	electrode on top of other electrode
+OT8	ECOG	µV	232	0.15	G2	strip	512	n/a	bad	electrode on top of other electrode
+el025	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el026	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el027	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el028	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el029	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el030	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el031	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el032	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+IH1	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+IH2	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+IH3	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+IH4	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+IH5	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+IH6	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+IH7	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+IH8	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+Oc1	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+Oc2	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+Oc3	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+Oc4	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+Oc5	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+Oc6	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+Oc7	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+Oc8	ECOG	µV	232	0.15	G2	strip	512	n/a	good	included
+el049	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el050	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el051	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el052	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el053	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el054	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el055	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el056	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el057	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el058	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el059	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el060	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el061	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el062	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el063	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+el064	OTHER	µV	232	0.15	G2	other	512	n/a	bad	not recording
+MKR1+	TRIG	µV	232	0.15	MKR1-	other	512	n/a	good	not included
+PT01	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT02	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT03	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT04	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT05	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT06	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT07	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT08	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT09	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT10	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT11	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT12	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT13	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT14	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT15	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT16	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT17	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT18	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT19	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT20	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT21	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT22	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT23	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT24	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT25	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT26	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT27	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT28	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT29	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT30	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT31	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT32	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT33	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT34	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT35	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT36	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT37	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT38	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT39	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT40	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT41	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT42	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT43	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT44	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT45	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT46	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT47	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+PT48	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F49	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F50	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F51	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F52	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F53	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F54	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F55	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F56	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F57	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F58	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F59	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F60	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F61	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F62	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F63	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+F64	ECOG	µV	232	0.15	G2	grid	512	n/a	good	included
+thor+	OTHER	Adim.	232	0.15	thor-	other	512	n/a	bad	not recording
+abdo+	OTHER	Adim.	232	0.15	abdo-	other	512	n/a	bad	not recording
+xyz+	OTHER	Adim.	232	0.15	xyz-	other	512	n/a	bad	not recording
+MKR2+	TRIG	µV	232	0.15	MKR2-	other	512	n/a	good	not included
