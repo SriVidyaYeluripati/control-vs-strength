@@ -5,3 +5,5 @@ __pycache__/
 .DS_Store
 results/cache/*
 !results/cache/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
